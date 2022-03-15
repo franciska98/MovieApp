@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877884303134",
+    "project_id": "dmlabos-37306",
+    "storage_bucket": "dmlabos-37306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877884303134:android:29437661dbe9c3d1b3cb0f",
+        "android_client_info": {
+          "package_name": "com.example.dmlabos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877884303134-n2dd6en9ui8gn0loc0vc6jpdvjl5a008.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmlabos",
+            "certificate_hash": "9259dea3a85224286390d4ee84df704975b53642"
+          }
+        },
+        {
+          "client_id": "877884303134-99vrejbltapg3c050q005tund7m4eb2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4etLhVeldWvmzlpkkIuLA-8oLwom4tiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877884303134-99vrejbltapg3c050q005tund7m4eb2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
